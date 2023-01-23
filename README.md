@@ -1,5 +1,4 @@
-# Hive-Techwear-1
-To add
+
 # Hive-Techwear
 
 # Hive Tech Wear in React & Redux + Django
